@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{font-family:'微软雅黑'; margin:0 auto;min-width:980px;}
+ul{display:block;margin:0;padding:0;list-style:none;}
+li{display:block;margin:0;padding:0;list-style: none;}
+.place{height:40px; background:url(/RightSystem/images/righttop.gif) repeat-x;}
+.place span{line-height:40px; font-weight:bold;float:left; margin-left:12px;color:#dc4e00;}
+.placeul li{float:left; line-height:40px; padding-left:7px; padding-right:12px; background:url(/RightSystem/images/rlist.gif) no-repeat right;}
+.placeul li:last-child{background:none;}
+.rightinfo{padding:8px;}
+.tools{clear:both; height:35px; margin-bottom:8px;}
+.toolbar{float:left;}
+.toolbar li{background:url(/RightSystem/images/toolbg.gif) repeat-x; line-height:33px; height:33px; border:solid 1px #dca571; float:left; padding-right:10px; margin-right:5px;border-radius: 3px;  cursor:pointer;}
+.toolbar li span{float:left; margin-left:10px; margin-right:5px; margin-top:5px;}
+.imgtable{width:100%;border:solid 1px #ebb683; }
+.imgtable th{background:url(../images/th.gif) repeat-x; height:34px; line-height:34px; border-bottom:solid 1px #d7a372; text-indent:21px; text-align:left;}
+.imgtable td{line-height:20px; text-indent:21px; border-right: dotted 1px #F2BF74;}
+.imgtable td img{margin:10px 20px 10px 0;}
+.imgtable td p{color:#919191;}
+.imgtable td i{font-style:normal; color:#ea2020;}
+.imgtd{text-indent:0;}
+.imgtable tbody tr.odd{background:#FFF7EA;}
+.imgtable tbody tr:hover{background:#FFDCA9;}

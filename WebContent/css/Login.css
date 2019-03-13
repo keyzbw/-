@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{font-size:9pt;border:0;margin:0;padding:0;}
+body{font-family:'微软雅黑'; margin:0 auto;min-width:980px;}
+ul{display:block;margin:0;padding:0;list-style:none;}
+li{display:block;margin:0;padding:0;list-style: none;}
+img{border:0;}
+.logintop{height:47px; position:absolute; top:0; background:url(/RightSystem/images/loginbg1.png) repeat-x;z-index:100; width:100%;}
+.logintop span{color:#fff; line-height:47px; background:url(/RightSystem/images/loginsj.png) no-repeat 21px 18px; text-indent:44px; color:#fff; float:left;}
+.logintop ul{float:right; padding-right:30px;}
+.logintop ul li{float:left; margin-left:20px; line-height:47px;}
+.logintop ul li a{color:#fff;}
+.logintop ul li a:hover{color:#fff;}
+.loginbody{background:url(/RightSystem/images/loginbg3.png) no-repeat center center; width:100%; height:585px; overflow:hidden; position:absolute; top:100px;}
+.systemlogo{background:url(/RightSystem/images/loginlogo.png) no-repeat center;width:100%; height:71px; margin-top:75px;}
+.loginbox{width:692px; height:336px; background:url(/RightSystem/images/images/logininfo.png) no-repeat; margin-top:30px;padding-top:30px;}
+.loginbox ul{margin-top:88px; margin-left:240px;}
+.loginbox ul li{margin-bottom:25px;}
+.loginbox ul li label{color:#4b4343; padding-left:25px;}
+.loginbox ul li label a{color:#4b4343;}
+.loginbox ul li label a:hover{color:#f0580c;}
+.loginbox ul li label input{margin-right:5px;}
+.loginbox{width:692px; height:373px;margin-top:30px;}
+.loginuser{width:299px; height:48px; background:url(/RightSystem/images/loginuser.png) no-repeat; border:none; line-height:48px; padding-left:44px; font-size:14px; color:#de9852; }
+.loginpwd{width:299px; height:48px; background:url(/RightSystem/images/loginpassword.png) no-repeat; border:none;line-height:48px; padding-left:44px; font-size:14px; color:#de9852;}
+.loginbtn{width:111px;height:35px; background:url(/RightSystem/images/buttonbg.png) repeat-x; font-size:14px; font-weight:bold; color:#fff;cursor:pointer; line-height:35px;}
+
+.loginbox{background:url(/RightSystem/images/logininfo2.png) no-repeat;}
+.loginbox ul li{margin-bottom:16px;}
